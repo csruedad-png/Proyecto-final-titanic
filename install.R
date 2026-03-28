@@ -1,0 +1,8 @@
+install.packages("tidyverse")
+install.packages("ggplot2")
+install.packages("dplyr")
+install.packages("readr")
+install.packages("caret")
+install.packages("glmnet")
+install.packages("plotly")
+install.packages("shiny")
